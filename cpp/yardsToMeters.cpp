@@ -5,7 +5,9 @@
 
 int main(void)
 {
-    using namespace std;
+    using std::cout;
+    using std::cin;
+    using std::endl;
     int yards;
     double result;
     cout << "What is the distance in yards that you wish to convert to meters? ";
