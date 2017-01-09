@@ -1,7 +1,8 @@
 // Convert yards to meters
 
 #include <iostream> // preprocessor directive
-#define METERS_PER_YARD 0.9144 // symbolic constant
+//#define METERS_PER_YARD 0.9144 // symbolic constant
+const double METERS_PER_YARD = 0.9144;
 
 int main(void)
 {
