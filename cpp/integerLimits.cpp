@@ -2,7 +2,7 @@
 #include <iostream>
 #include <climits>
 
-int main(void)
+int main()
 {
     using namespace std;
     unsigned int n_int = UINT_MAX;
@@ -30,6 +30,4 @@ int main(void)
     cout << "Maximum signed int value = " << INT_MAX << endl;
     cout << "Minimum signed int value = " << INT_MIN << endl;
     cout << "Bits per byte = " << CHAR_BIT << endl;
-
-    return 0;
 }
