@@ -15,7 +15,7 @@ def total_enrollment(univs):
 
 
 usa_univs = [ ['California Institute of Technology', 2175, 37704],
-              ['Harvard',19627,39849],
+              ['Harvard', 19627, 39849],
               ['Massachusetts Institute of Technology', 10566, 40732],
               ['Princeton', 7802, 37000],
               ['Rice', 5879, 35551],
